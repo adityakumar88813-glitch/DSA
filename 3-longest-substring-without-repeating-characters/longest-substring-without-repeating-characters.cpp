@@ -12,4 +12,4 @@ public:
         }
         return maxi;
     }
-};
+};///new
