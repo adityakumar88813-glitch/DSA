@@ -12,6 +12,10 @@ public:
         // }else{
         //     return false;
         // }
+
+
+
+        
         if (s.length() != goal.length()) return false;
         
         // Concatenate s with itself and check if goal exists in it
